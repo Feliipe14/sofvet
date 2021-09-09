@@ -1,0 +1,25 @@
+h1 {
+    color: #2C4B9A;
+    text-align: center;
+    }
+
+body {
+    color: #2C4B9A
+
+}    
+table {
+    border:  1px solid #DBD8D7;
+    width: 80%;
+    align-content: center
+    
+
+}
+
+th {
+    text-align: left;
+}
+div {
+    align-items: center;
+    text-align: center;
+    color: #2C4B9A;
+}
