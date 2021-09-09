@@ -9,13 +9,13 @@ body {
 }    
 table {
     border:  1px solid #DBD8D7;
-    width: 50%;
+    width: 60%;
     align-content: center
     
 
 }
 td {
-    padding: 10px;
+    padding: 8px;
 }
 
 th {
